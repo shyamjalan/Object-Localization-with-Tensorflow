@@ -1,5 +1,7 @@
 # Object-Localization-with-Tensorflow
-This project was completed under the Flipkart Grid Challenge Round 2 on Dare2Compete.com. Our team was able to gain 87% accuracy and an All India Rank 97 and Rank 1 in our college, BIT Mesra
+This project was completed under the Flipkart Grid Challenge Round 2 on Dare2Compete.com. Our team was able to gain 87% accuracy and an All India Rank 97 and Rank 1 in our college, BIT Mesra.
+
+The images used for training and testing may be downloaded from the link :- https://drive.google.com/open?id=1wTcAVp67-H9XR2r2oKhgyLkOPFCPac8L
 
 # Tools AND Libraries Used: 
 1. os
