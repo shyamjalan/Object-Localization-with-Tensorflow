@@ -9,7 +9,7 @@ This project was completed under the Flipkart Grid Challenge Round 2 on Dare2Com
 5. PIL - Image
 6. matplotlib.pyplot
 
-We have divide the project into three parts : 
+We have divided the project into three parts : 
 1. Creating dataset i.e. Preprocessing the input images. (create_dataset.ipynb)
 2. Training the model. (training.ipynb)
 3. Testing Phase. (testing.ipynb)
